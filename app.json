@@ -1,4 +1,5 @@
 {
+  "scheme": "cashlog-v2",
   "expo": {
     "name": "cashlog-v2",
     "slug": "cashlog-v2",
@@ -22,6 +23,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": ["expo-router"]
   }
 }
